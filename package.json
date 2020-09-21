@@ -1,0 +1,22 @@
+{
+  "name": "welcomer",
+  "version": "1.0.0",
+  "description": "A Simple Discord Welcome Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axpgf/welcome-bot.git"
+  },
+  "author": "Barcode#0001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axpgf/welcome-bot/issues"
+  },
+  "homepage": "https://github.com/axpgf/welcome-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}

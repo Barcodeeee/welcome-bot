@@ -1,5 +1,6 @@
 # welcome-bot
-A Simple Discord Welcome Bot (Needs EMBED_MESSAGE perms)
+---OUT DATED AND MAY NO LONGER WORK---
+ A Simple Discord Welcome Bot (Needs EMBED_MESSAGE perms)
 ## Requirements
 
 - [Node](https://nodejs.org/en/)
